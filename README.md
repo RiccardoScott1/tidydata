@@ -8,4 +8,5 @@ In detail it:
 - selects only columns containing "mean" and "std" 
 - adds subjects and activities as columns
 - merges the train and test sets vertically (rbind): this big detailed dataframe is called "all_together"
-- an independent tidy data set with the average of each variable for each activity and each subject is exported to "tidy.csv" and commented in "CodeBook"# tidydata
+- an independent tidy data set with the average of each variable for each activity and each subject is exported to "tidy.txt" and commented in "CodeBook"# tidydata
+# tidydata
